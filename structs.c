@@ -1,0 +1,7 @@
+struct proceso{
+
+}
+
+struct cola{
+
+}
